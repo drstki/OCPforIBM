@@ -27,22 +27,22 @@ May 2020
 
 				Configuration Networking Storage
 
+12:45		HandsOn Lab - Learn OpenShift introduction
+
 13:00		BREAK
 
-14:00		CoreOS & CRI-O
+14:00		HandsOn Lab
 
-14:30		Operator Framework
-
-15:00		HandsOn Lab - Learn OpenShift 
-
-18:00		Open End		
+				
 
 
 ### Day 2:
 
 9:00		Introduction Day2
 
-9:15		OpenShift Advanced Features
+9:15		CoreOs & CRI-O / Operator Framework
+
+10:00		OpenShift Advanced Features
 
 				Container Native Virtualisation
 
@@ -50,7 +50,7 @@ May 2020
 
 10:45		BREAK
 
-11:00		Cluster Manager
+11:00		Advanced Cluster Management for Kubernetes
 
 11:30		Serverless
 
